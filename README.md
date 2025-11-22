@@ -1,84 +1,108 @@
-🍽️ Restaurant Sales & Menu Performance Analysis
-A comprehensive data analysis project examining restaurant sales patterns, menu performance, and customer behavior using SQL queries and business intelligence reporting.
 
-📊 Project Overview
-This project analyzes restaurant transaction data to uncover key insights about:
+# 🍽️ Restaurant Sales & Menu Performance Analysis
 
-Menu performance and popular items
+A complete SQL-based data analytics project exploring restaurant sales, menu performance, and customer behavior to drive smarter business decisions.
 
-Revenue trends across categories and time periods
+---
 
-Customer ordering behavior and patterns
+## 📊 Project Overview
 
-Strategic opportunities for business growth
+This project analyzes real restaurant transaction data using SQL to uncover key insights related to:
 
-🛠️ Technical Stack
-Database: MySQL
+* Menu performance & item popularity
+* Revenue trends across categories and time periods
+* Customer ordering behavior
+* Operational and business growth opportunities
 
-Analysis: SQL Queries
+It demonstrates strong analytical skills in SQL, business intelligence, and restaurant data modeling.
 
-Reporting: Professional Business Analysis
+---
 
-Focus: Restaurant Operations & Menu Engineering
+## 🛠️ Tech Stack
 
-📈 Key Analyses Performed
+* **Database:** MySQL
+* **Query Language:** SQL
+* **Analytical Focus:** Restaurant Operations, Menu Engineering, Customer Behavior
+* **Reporting:** Business Intelligence formatting for real-world decision-making
 
-🔍 Top Performance Metrics
+---
 
-Top 5 best-selling menu items
+## 📈 Key Analyses Performed
 
-Revenue by food category
+### 🔍 Performance Metrics
 
-Average Order Value (AOV) analysis
+* Top 5 best-selling menu items
+* Total revenue by food category
+* Average Order Value (AOV)
+* Highest average-priced category
+* Monthly sales trend for 2023
 
-Monthly sales trends for 2023
+### ⏰ Temporal Analysis
 
-⏰ Temporal Analysis
-Daily revenue patterns by day of week
+* Revenue by day of week
+* Customer order frequency by time of day
+* Peak months and seasonal variations
 
-Order frequency by time of day
+### 🎯 Customer Behavior Insights
 
-Seasonal performance trends
+* Items most frequently ordered together
+* Orders containing multiple menu categories
+* Identification of natural cross-sell opportunities
 
-🎯 Customer Behavior Insights
-Product pairing analysis
+---
 
-Multi-category ordering patterns
+## 🚀 Key Findings (Sample Insights)
 
-Peak demand periods
+* **Italian cuisine** generates the highest revenue (**31%** of total).
+* **Hamburger** is the most popular item (**622 sales**).
+* **Korean Beef Bowl** is the top revenue generator (**$10,554.60**).
+* **Afternoon** time period accounts for **46.65%** of customer orders.
+* Strong product pairing opportunities (e.g., **Hamburger + Edamame**).
+* **Average Order Value (AOV):** $29.80
+* **Peak revenue month:** March 2023 ($54,610.60)
+* **Strongest sales day:** Monday
 
+---
 
-🚀 Key Findings
+## 💡 Business Impact
 
-Italian cuisine generates highest revenue (31% of total)
+The insights from this analysis support:
 
-Hamburger is most popular item (622 sales)
+* **Menu Engineering:** Price optimization, feature placement, and bundling
+* **Promotional Strategy:** Time-based offers and category-focused campaigns
+* **Staff Scheduling:** Aligning staff levels with peak hours/days
+* **Inventory Management:** Ensuring top sellers remain in stock
+* **Revenue Growth:** Leveraging cross-sell combos and premium category pricing
 
-Korean Beef Bowl is top revenue generator ($10,554.60)
+---
 
-Afternoon period accounts for 46.65% of orders
+## 📊 Sample Insights Visual Summary
 
-Clear product pairing opportunities identified
+**Key Operational Insights:**
 
-💡 Business Impact
-This analysis provides actionable insights for:
+* Peak demand occurs in the **Afternoon**
+* Highest cross-sell pair is **Hamburger + Edamame** (90 orders)
+* Multi-category orders show strong upsell potential
+* Weekday revenue variation helps optimize shifts & staffing
 
-Menu engineering and pricing strategies
+---
 
-Staff scheduling optimization
+## 📁 SQL Query Highlights
 
-Promotional campaign planning
+Includes SQL scripts for:
 
-Inventory management improvements
+* Top-selling items
+* Revenue breakdown
+* Monthly trend analysis
+* Category-level insights
+* Basket analysis (items bought together)
+* Time-of-day frequency analysis
 
-📊 Sample Insights
-Average Order Value: $29.80
+All queries are stored in the **/queries/** folder.
 
-Peak revenue month: March 2023 ($54,610.60)
+---
 
-Strongest sales day: Monday
+## 🤝 Contributing
 
-Top item pair: Hamburger + Edamame (90 combinations)
-
-🤝 Contributing
-This project demonstrates SQL analytical capabilities and business intelligence reporting for restaurant management optimization.
+Contributions, improvements, or additions to analysis/visualization are welcome.
+This project serves as a portfolio example of end-to-end SQL analysis and BI reporting for restaurant management optimization.
